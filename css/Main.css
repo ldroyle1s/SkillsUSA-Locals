@@ -1,0 +1,22 @@
+h1, h2, h3, h4, h5, h6{
+    font-family: Domine;
+}
+p, a, li{
+    font-family: Overpass;
+}
+
+
+.navbar{
+    position: fixed;
+    z-index: 100;
+    width: 100%;
+    top: 0;
+}
+
+.card h1{
+    font-size: 4.5rem;
+    text-align: center;
+}
+img{
+    max-width: 100%;
+}
